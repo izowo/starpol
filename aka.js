@@ -13,7 +13,7 @@ ctx.strokeStyle = '#000';
 ctx.lineWidth   = 3;
 ctx.lineJoin    = 'round';
 ctx.strokeStyle = "#ff0000";
-
+ 
 var Graph = function(arg) {
   this.initialize(arg);
   /* 共通の静的プロパティ */
